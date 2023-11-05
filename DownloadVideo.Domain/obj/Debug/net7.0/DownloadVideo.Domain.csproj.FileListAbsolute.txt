@@ -1,0 +1,11 @@
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\bin\Debug\net7.0\DownloadVideo.Domain.deps.json
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\bin\Debug\net7.0\DownloadVideo.Domain.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\bin\Debug\net7.0\DownloadVideo.Domain.pdb
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\obj\Debug\net7.0\DownloadVideo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\obj\Debug\net7.0\DownloadVideo.Domain.AssemblyInfoInputs.cache
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\obj\Debug\net7.0\DownloadVideo.Domain.AssemblyInfo.cs
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\obj\Debug\net7.0\DownloadVideo.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\obj\Debug\net7.0\DownloadVideo.Domain.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\obj\Debug\net7.0\refint\DownloadVideo.Domain.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\obj\Debug\net7.0\DownloadVideo.Domain.pdb
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Domain\obj\Debug\net7.0\ref\DownloadVideo.Domain.dll

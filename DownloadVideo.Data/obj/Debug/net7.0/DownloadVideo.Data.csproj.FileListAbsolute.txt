@@ -1,0 +1,15 @@
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\bin\Debug\net7.0\DownloadVideo.Data.deps.json
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\bin\Debug\net7.0\DownloadVideo.Data.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\bin\Debug\net7.0\DownloadVideo.Data.pdb
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\bin\Debug\net7.0\DownloadVideo.Domain.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\bin\Debug\net7.0\DownloadVideo.Domain.pdb
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\DownloadVideo.Data.csproj.AssemblyReference.cache
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\DownloadVideo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\DownloadVideo.Data.AssemblyInfoInputs.cache
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\DownloadVideo.Data.AssemblyInfo.cs
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\DownloadVideo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\DownloadVideo.Data.csproj.CopyComplete
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\DownloadVideo.Data.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\refint\DownloadVideo.Data.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\DownloadVideo.Data.pdb
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo.Data\obj\Debug\net7.0\ref\DownloadVideo.Data.dll

@@ -1,0 +1,7 @@
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo\bin\release\net7.0\win-x64\publish\DownloadVideo.exe
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo\bin\release\net7.0\win-x64\publish\DownloadVideo.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo\bin\release\net7.0\win-x64\publish\DownloadVideo.deps.json
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo\bin\release\net7.0\win-x64\publish\DownloadVideo.runtimeconfig.json
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo\bin\release\net7.0\win-x64\publish\DownloadVideo.pdb
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo\bin\release\net7.0\win-x64\publish\Newtonsoft.Json.dll
+C:\Users\Bekmurod\source\repos\DownloadVideo\DownloadVideo\bin\release\net7.0\win-x64\publish\Telegram.Bot.dll
