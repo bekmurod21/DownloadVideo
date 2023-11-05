@@ -3,15 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34202.233
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadVideo.Data", "DownloadVideo.Data\DownloadVideo.Data.csproj", "{93B932D8-D9F7-4807-875C-43CFC6BC415D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadVideo.Data", "src\DownloadVideo.Data\DownloadVideo.Data.csproj", "{93B932D8-D9F7-4807-875C-43CFC6BC415D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadVideo.Domain", "DownloadVideo.Domain\DownloadVideo.Domain.csproj", "{073B4DD1-FE75-4807-9A0B-1CD4A5A85FFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadVideo.Domain", "src\DownloadVideo.Domain\DownloadVideo.Domain.csproj", "{073B4DD1-FE75-4807-9A0B-1CD4A5A85FFD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{2F97910D-B3F5-4832-BB63-6346146C44C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadVideo.Service", "src\DownloadVideo.Service\DownloadVideo.Service.csproj", "{E1F697AE-F214-40DA-B648-BA97E4D49585}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadVideo.Service", "DownloadVideo.Service\DownloadVideo.Service.csproj", "{E1F697AE-F214-40DA-B648-BA97E4D49585}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadVideo.Web", "DownloadVideo.Web\DownloadVideo.Web.csproj", "{D40C47A8-AEF9-4FB0-9123-35FF7428F58A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DownloadVideo.Web", "src\DownloadVideo.Web\DownloadVideo.Web.csproj", "{D40C47A8-AEF9-4FB0-9123-35FF7428F58A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
